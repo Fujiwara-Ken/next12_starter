@@ -21,15 +21,16 @@ git clone git@github.com:Fujiwara-Ken/next_example.git
 `yarn install`
 
 ```shell
+# v1.22.15であることを確
 yarn -v
 
 #パッケージをインストール
 yarn install
 ```
 
-## 3. `yarn run`
+## 3. `yarn dev`
 
-`yarn run`でローカルサーバーを立ち上げ。
+`yarn dev`でローカルサーバーを立ち上げ。
 
 ```shell
 yarn dev
